@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 关于我
-permalink: /about/
 ---
 
 一个 Android 小白，喜欢研究一些新技术。
