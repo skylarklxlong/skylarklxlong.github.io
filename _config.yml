@@ -1,7 +1,7 @@
 # Basic
 title: LiXueLong
 subtitle: 别让等待成为遗憾！
-welcome_message: ^_^
+# welcome_message: ^_^
 description: 这是我用来记录平日学习笔记的地方，欢迎您的访问.
 creator: <a href="http://himakeit.online">@xuelong</a>
 # 头像里面的标题
@@ -17,13 +17,13 @@ comment:
     # cloudTie: 
 # Social
 social:
-    weibo: Xuelong_li
+    # weibo: Xuelong_li
     github: skylarklxlong
     zhihu: xuelong-li
     # twitter: 
     # gplus: 
     # weibo: 5069128618
-    # weixing: 898309569 
+    weixing: 898309569 
     mail: li_xuelong@126.com
 
 # 百度统计 
