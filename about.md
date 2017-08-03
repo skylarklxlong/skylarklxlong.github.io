@@ -15,7 +15,9 @@ group: navigation
 <h3> 我的博客 </h3>  
 
 <p>
-这个博客是使用[leopardpan](http://baixin.io)博客的模版所搭建的。在此非常感谢！[leopard](https://github.com/leopardpan/leopardpan.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是开发者持续更新的动力, 谢谢 😄.
+这个博客是使用 
+<a href="http://baixin.io"> leopardpan </a>
+博客的模版所搭建的。在此非常感谢！<a href="https://github.com/leopardpan/leopardpan.github.io"> leopard </a>是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是开发者持续更新的动力, 谢谢 😄.
 
 <p>
 
@@ -29,6 +31,6 @@ group: navigation
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/skylarklxlong/skylarklxlong.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
+博客源码在 <a target="_blank" href='https://github.com/skylarklxlong/skylarklxlong.github.io/'> Github </a> 上，你的 Star 是我更新的动力，谢谢~
 
 {% include comments.html %}

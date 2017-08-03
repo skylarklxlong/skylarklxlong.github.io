@@ -12,7 +12,7 @@ url: "http://himakeit.online"
 
 # Comment
 comment:
-    # disqus: 
+    disqus: xuelongli
     # duoshuo:
     # cloudTie: 
 # Social
@@ -54,7 +54,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: blue
+cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
