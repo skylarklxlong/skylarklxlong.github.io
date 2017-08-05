@@ -10,7 +10,8 @@ group: navigation
 
 <p><h4>有什么话要对我说吗？</h4>     
 <P><h4>这里是你畅所欲言的地方，可以咨询，</h4>
-<p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>   
+<p><h4>可以交流，可以感叹，可以发飙，但不可以订外卖 、、、</h4>
+<p><h4>评论系统都挂了。。。正在拼命抢修中</h4>  
 <p>
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
 	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
@@ -103,10 +104,10 @@ function setHalfVolume()
 </script> 
 
 
-<!-- 多说评论框 start 
+<!-- 多说评论框 start
 	<div class="ds-thread" data-thread-key="/liuyan/" data-title="留言板" data-url="http://roboutkang/liuyan/"></div>
-<!-- 多说评论框 end 
-<!-- 多说公共JS代码 start (一个网页只需插入一次) 
+多说评论框 end 
+多说公共JS代码 start (一个网页只需插入一次)
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"robotkang"};
 	(function() {
@@ -118,7 +119,7 @@ var duoshuoQuery = {short_name:"robotkang"};
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
 	</script>
-<!-- 多说公共JS代码 end -->
+多说公共JS代码 end -->
 
 <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
 <script>

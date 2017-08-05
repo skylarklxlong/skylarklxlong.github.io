@@ -12,7 +12,8 @@ url: "http://himakeit.online"
 
 # Comment
 comment:
-    disqus: xuelongli
+    # 评论系统好像都挂了。。。
+    # disqus: xuelongli
     # duoshuo:
     # cloudTie: 
 # Social
