@@ -13,22 +13,22 @@
     <loc>http://yoursite.com/2018/03/08/android-handler/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2017/10/27/android-ontouchevent-actionup-no-work/</loc>
+    <loc>http://yoursite.com/2017/09/07/android-permission-denial-opening-provider/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2017/09/07/android-permission-denial-opening-provider/</loc>
+    <loc>http://yoursite.com/2017/10/27/android-ontouchevent-actionup-no-work/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2017/08/25/android-sqlite/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2017/12/10/java-preplusplus-postplusplus/</loc>
+    <loc>http://yoursite.com/2017/09/29/android-toast-error-on-thread/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2017/09/09/eclipse-project-to-android-studio-error/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
-    <loc>http://yoursite.com/2017/09/29/android-toast-error-on-thread/</loc>
+    <loc>http://yoursite.com/2017/12/10/java-preplusplus-postplusplus/</loc>
     <lastmod>2020-05-19</lastmod>
   </url>  <url>
     <loc>http://yoursite.com/2017/08/26/ubuntu-compile-vlc-android/</loc>
